@@ -4,7 +4,7 @@
 
 ## About the Project
 
-Amazon Clone built with React, CSS and Firebase. The clone features the following functioning pages: Login, Home Page, Checkout, Payment, and Order History. Payment processing is done through Stripe. If you're curious to see the Stripe integration in action, test card information is located on the /payment page below the Payment Method header.
+Amazon Clone built with React, CSS, and Firebase. The clone features the following functioning pages: Login, Home Page, Checkout, Payment, and Order History. Payment processing is done through Stripe. If you're curious to see the Stripe integration in action, test card information is located on the /payment page below the Payment Method header.
 
 To see the clone, click: https://clone-874e4.web.app
 
