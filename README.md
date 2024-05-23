@@ -10,6 +10,6 @@ To see the clone, click: https://clone-874e4.web.app
 
 ## Built With
 
-- ![image](https://github.com/hectarescraps/Amazon-Clone/assets/69264409/f813c411-34dc-429f-a9bb-9aee47c48f61)
-- ![image](https://github.com/hectarescraps/Amazon-Clone/assets/69264409/d91a56c0-4f03-4010-bbf3-15026e19fbb5)
+- React
+- Firebase
 
